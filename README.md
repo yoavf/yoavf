@@ -12,6 +12,11 @@ Advocating for responsible use of coding agents (though _not_ in moderation).
 
 ## Recent Projects
 
+#### [prompet.dev](https://prompet.ai)
+An experiment in letting an AI model teach itself to draw
+[View on GitHub](https://github.com/yoavf/prompet)
+
+
 #### [aisessions.dev](https://aisessions.dev)
 A place to share coding agent sessions from Claude Code, Codex, and Gemini CLI.
 [View on GitHub](https://github.com/yoavf/ai-sessions)
