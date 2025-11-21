@@ -12,7 +12,12 @@ Advocating for responsible use of coding agents (though _not_ in moderation).
 
 ## Recent Projects
 
-#### [prompet.dev](https://prompet.ai)
+#### [metrics.help](https://metrics.help)
+Machine learning metrics and algorithms, explained.
+[View on GitHub](https://github.com/yoavf/metrics.help)
+
+
+#### [prompet.ai](https://prompet.ai)
 An experiment in letting an AI model teach itself to draw
 [View on GitHub](https://github.com/yoavf/prompet)
 
