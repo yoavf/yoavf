@@ -4,13 +4,16 @@
 
 ## Tech Stack
 
-
 Mostly TypeScript, PHP, and Python  - but always experimenting.
 
 
 Advocating for responsible use of coding agents (though _not_ in moderation).
 
 ## Recent Projects
+
+#### [ringbreak.app](https://ringbreak.app)
+Exercise Breaks with Your Nintendo Ring-Con on Mac.
+[View on GitHub](https://github.com/yoavf/ringbreak)
 
 #### [metrics.help](https://metrics.help)
 Machine learning metrics and algorithms, explained.
@@ -23,7 +26,7 @@ An experiment in letting an AI model teach itself to draw
 
 
 #### [aisessions.dev](https://aisessions.dev)
-A place to share coding agent sessions from Claude Code, Codex, and Gemini CLI.
+A place to share coding agent sessions from Claude Code, Codex, Gemini CLI, and more.
 [View on GitHub](https://github.com/yoavf/ai-sessions)
 
 
