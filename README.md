@@ -1,6 +1,6 @@
 # Hey there, I'm Yoav
 
-**Builder of things** and hands-on Engineering Manager at BrainPOP. 
+**Builder of things** and a product engineer at [Base44](https://base44.com). 
 
 ## Tech Stack
 
