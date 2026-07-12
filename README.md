@@ -11,6 +11,10 @@ Advocating for responsible use of coding agents (though _not_ in moderation).
 
 ## Recent Projects
 
+#### [Continuo](https://usecontinuo.dev)
+Move a coding-agent session between Claude Code, Codex, and OpenCode.
+[View on GitHub](https://github.com/yoavf/continuo)
+
 #### [ringbreak.app](https://ringbreak.app)
 Exercise Breaks with Your Nintendo Ring-Con on Mac.
 [View on GitHub](https://github.com/yoavf/ringbreak)
