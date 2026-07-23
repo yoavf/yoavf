@@ -11,6 +11,12 @@ Advocating for responsible use of coding agents (though _not_ in moderation).
 
 ## Recent Projects
 
+
+#### [jst](https://jst.sh)
+A CLI tool to convert plain language to shell commands
+[View on GitHub](https://github.com/yoavf/jst)
+
+
 #### [Continuo](https://usecontinuo.dev)
 Move a coding-agent session between Claude Code, Codex, and OpenCode.
 [View on GitHub](https://github.com/yoavf/continuo)
