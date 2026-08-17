@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-Mostly TypeScript, PHP, and Python  - but always experimenting.
+Mostly TypeScript, Python, and PHP  - but always experimenting.
 
 
 Advocating for responsible use of coding agents (though _not_ in moderation).
@@ -33,6 +33,11 @@ Machine learning metrics and algorithms, explained.
 #### [prompet.ai](https://prompet.ai)
 An experiment in letting an AI model teach itself to draw
 [View on GitHub](https://github.com/yoavf/prompet)
+
+
+#### [ai-sessions mcp ](https://github.com/yoavf/ai-sessions-mcp)
+Search and read your previous local coding-agent sessions from whichever agent you are using now.
+[View on GitHub](https://github.com/yoavf/ai-sessions-mcp)
 
 
 #### [aisessions.dev](https://aisessions.dev)
